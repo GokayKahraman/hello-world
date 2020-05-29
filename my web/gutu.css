@@ -1,0 +1,76 @@
+#motherDiv {
+    position: relative;
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+    left: 0px;
+}
+#kidDiv {
+    position: absolute;
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    left: 170px;
+    top: 0px;
+}
+#secDiv {
+    position: absolute;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    top: 175px;
+    left: 0px;
+}
+#thrdDiv {
+    position: absolute;
+    background-color: chartreuse;
+    height: 50px;
+    width: 50px;
+    top: 0px;
+    left: 0px;
+}
+#button1 {
+    height: 100px;
+    width: 200px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    font-size: 18px;
+}
+#button2 {
+    height: 100px;
+    width: 200px;
+    padding: 15px;
+    background-color: yellow;
+    color: black;
+    border-radius: 15px;
+    font-size: 18px;
+}
+#button3 {
+    height: 100px;
+    width: 200px;
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    font-size: 18px;
+}
+#button4 {
+    height: 100px;
+    width: 200px;
+    padding: 15px;
+    background-color: chartreuse;
+    color:black;
+    border-radius: 15px;
+    font-size: 18px;
+}
+#button5 {
+    height: 100px;
+    width: 200px;
+    padding: 15px;
+    background-color: chartreuse;
+    color:black;
+    border-radius: 15px;
+    font-size: 18px;
+}
